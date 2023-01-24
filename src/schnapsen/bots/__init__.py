@@ -10,3 +10,4 @@ from .gui.guibot import SchnapsenServer
 __all__ = ["RandBot", "AlphaBetaBot", "RdeepBot", "MLDataBot", "MLPlayingBot", "train_ML_model", "SchnapsenServer"]
 
 asdsad
+abcabcabc
