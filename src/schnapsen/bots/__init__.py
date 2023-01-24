@@ -8,4 +8,3 @@ from .ml_bot import MLDataBot, MLPlayingBot, train_ML_model
 from .gui.guibot import SchnapsenServer
 
 __all__ = ["RandBot", "AlphaBetaBot", "RdeepBot", "MLDataBot", "MLPlayingBot", "train_ML_model", "SchnapsenServer"]
-abcfwe
